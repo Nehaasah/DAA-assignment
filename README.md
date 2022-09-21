@@ -10,7 +10,7 @@ Comment on sum, if first element is positive/negative and last element is positi
 
 Approach: Following steps are performed in order to find Maximum Crossing Sum Subarray: 
 
-Step 1: Find out the mid location of the array[mid=(low+high)/2] 
+Step 1: Find mid location of the array  [mid=(low+high)/2] 
 
 Step 2: Perform sum for the left component and find out the value of MAX SUM and LEFT MOST POINT of the array . 
 
@@ -48,6 +48,11 @@ a=[-65,20,91,-56,28,83,74,-40,24,73,59,28,-30,35]
 
 First element is negative and last element is positive,
 Sum of MAXIMUM SUM ARRAY:  389
+
+![image](https://user-images.githubusercontent.com/102512172/191573105-f951062c-9801-48b6-a69b-9bcef7dfb9b5.png)
+
+![image](https://user-images.githubusercontent.com/102512172/191573155-2f9b8294-cfcc-4dc8-b274-3ea1ed046941.png)
+
 
 OBSERVATION: 
 Sum obtained in the case-01 where first and last element is positive is the largest. 
