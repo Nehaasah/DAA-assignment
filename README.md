@@ -33,7 +33,6 @@ Sum of MAXIMUM SUM ARRAY:  454
 Test Case 2: Both first & last negative 
 a=[-65,20,91,-56,28,83,74,-40,24,73,59,28,-30,-35] 
 
-![image](https://user-images.githubusercontent.com/102512172/191571707-7b401e78-a90a-48c1-8a49-16ff8366b3a7.png)
 
 First and last elements are negative,
 Sum of MAXIMUM SUM ARRAY:  384
