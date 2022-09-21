@@ -48,11 +48,7 @@ a=[-65,20,91,-56,28,83,74,-40,24,73,59,28,-30,35]
 
 First element is negative and last element is positive,
 Sum of MAXIMUM SUM ARRAY:  389
-
-![image](https://user-images.githubusercontent.com/102512172/191573105-f951062c-9801-48b6-a69b-9bcef7dfb9b5.png)
-
-![image](https://user-images.githubusercontent.com/102512172/191573155-2f9b8294-cfcc-4dc8-b274-3ea1ed046941.png)
-
+![image](https://user-images.githubusercontent.com/102512172/191579950-bfcf4500-679d-4a6d-8b82-1acef482613f.png)
 
 OBSERVATION: 
 Sum obtained in the case-01 where first and last element is positive is the largest. 
