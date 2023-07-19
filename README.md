@@ -1,4 +1,4 @@
-# DAA-assignment
+# Maximum Sum SubArray-DAA Assignment
 
 Presentation of MAXIMUM SUM SUBARRAY.
 
